@@ -1,0 +1,10 @@
+python==3.9.16
+matplotlib~=3.6.2
+pandas~=1.5.3
+numpy~=1.23.5
+seaborn~=0.12.2
+sklearn~=1.2.2
+pycountry~=22.3.5
+dython~=0.7.4
+prophet~=1.1.4
+ydata_profiling~=0.0.dev0
